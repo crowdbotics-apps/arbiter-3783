@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT arbiter_3783.wsgi:application
